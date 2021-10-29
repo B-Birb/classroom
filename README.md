@@ -77,3 +77,4 @@ El promedio ponderado de los laboratorios debe cumplir los siguientes criterios:
 - Ser igual o superior a 3.95.
 
 
+# 2021-2-lab-03-B-Birb
